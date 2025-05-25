@@ -4,6 +4,9 @@
 <img src="https://docs.langbot.app/social.png" alt="LangBot"/>
 </a>
 
+![图片作者：pixiv scapeghost_1](https://github.com/user-attachments/assets/ad35d888-d0eb-43ac-a507-130e19beeecb)
+
+
 <div align="center">
 
 <a href="https://trendshift.io/repositories/12901" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12901" alt="RockChinQ%2FLangBot | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
